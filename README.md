@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yashraj-001/NeoX-Lender.git
+   git clone https://github.com/AkhilSharmaCyber/NeoX-Lender-master.git
    cd NeoX-Lender
    ```
 
@@ -164,16 +164,4 @@ We welcome contributions from the community!
 Please make sure that your code adheres to our coding standards and is well documented.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Yash Rathore** - [LinkedIn](https://www.linkedin.com/in/yash--rathore) | [GitHub](https://github.com/Yashraj-001)
 
